@@ -25,7 +25,7 @@
          </children></AnchorPane>
       <AnchorPane prefHeight="200.0" prefWidth="200.0">
          <children>
-            <Text fill="#868383" layoutX="300.0" layoutY="191.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Login" textAlignment="CENTER" wrappingWidth="51.04345703125">
+            <Text fill="#281616" fontSmoothingType="LCD" layoutX="300.0" layoutY="191.0" stroke="#6b5e5e" strokeType="OUTSIDE" strokeWidth="0.0" text="Login" textAlignment="CENTER" wrappingWidth="51.04345703125">
                <font>
                   <Font size="18.0" />
                </font>
@@ -37,7 +37,7 @@
             </TextArea>
             <TextArea layoutX="209.0" layoutY="251.0" opacity="0.94" prefHeight="38.0" prefWidth="259.0" promptText="Full Name" />
             <TextArea layoutX="210.0" layoutY="303.0" prefHeight="38.0" prefWidth="259.0" promptText="Password" />
-            <Button defaultButton="true" layoutX="252.0" layoutY="354.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="163.0" text="SignIn" textAlignment="CENTER" textFill="#261313">
+            <Button defaultButton="true" layoutX="252.0" layoutY="354.0" mnemonicParsing="false" prefHeight="26.0" prefWidth="163.0" text="Sign In" textAlignment="CENTER" textFill="#261313">
                <effect>
                   <ColorAdjust />
                </effect>

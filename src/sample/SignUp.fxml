@@ -42,7 +42,7 @@
                   <Font size="11.0" />
                </font>
             </TextArea>
-            <Text layoutX="303.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Sign Up" textAlignment="CENTER" wrappingWidth="72.0">
+            <Text fontSmoothingType="LCD" layoutX="303.0" layoutY="115.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Sign Up" textAlignment="CENTER" wrappingWidth="72.0">
                <font>
                   <Font size="20.0" />
                </font>
